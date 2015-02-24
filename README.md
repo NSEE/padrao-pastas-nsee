@@ -7,11 +7,6 @@ Qualquer dúvida, favor contactar:
 
 Rafael Corsi - rafael.corsi@maua.br
 
-## Envolvidos
-Uma lista dos envolvidos nesse projeto 
-- Felipe 
-- Bruna
-
 ## Organização das pastas
 
 As pastas desse projeto devem ser organizadas conforme exemplo a seguir:
