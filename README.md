@@ -3,12 +3,6 @@
 ## Descrição
 Padronização de pastas para os projetos desenvolvidos no NSEE, para usar basta:
 
-- Criar pasta do projeto (vaiza)
-- Clonar esse repositório para a pasta recente criada
-- Adicionar arquivos 
-- Adicionar o novo repositório remote
-- Dar um push para o repositório
-
 Qualquer dúvida, favor contactar:
 
 Rafael Corsi - rafael.corsi@maua.br
@@ -56,6 +50,12 @@ As pastas desse projeto devem ser organizadas conforme exemplo a seguir:
 ```
 
 ## Exemplo de como usar
+
+- Criar pasta do projeto (vaiza)
+- Clonar esse repositório para a pasta recente criada
+- Adicionar arquivos 
+- Adicionar o novo repositório remote
+- Dar um push para o repositório
 
 Criamos uma nova pasta do projeto:
 
