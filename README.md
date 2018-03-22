@@ -5,7 +5,7 @@ Padronização de pastas para os projetos desenvolvidos no NSEE, para usar basta
 
 Qualquer dúvida, favor contactar:
 
-Rafael Corsi - rafael.corsi@maua.br
+Rodrigo França - rodrigo.franca@maua.br
 
 ## Organização das pastas
 
@@ -46,7 +46,7 @@ As pastas desse projeto devem ser organizadas conforme exemplo a seguir:
 
 ## Exemplo de como usar
 
-- Criar pasta do projeto (vaiza)
+- Criar pasta do projeto (vazia)
 - Clonar esse repositório para a pasta recente criada
 - Adicionar arquivos 
 - Adicionar o novo repositório remote
